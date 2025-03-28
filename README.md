@@ -1,7 +1,7 @@
 # 📊 Customer Revenue & Churn Analysis Platform
 
 
-[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://todotodo.com)
+[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://hotelappanalysis.streamlit.app)
 
 This project is a **Streamlit-based data analysis and visualization platform** designed to process and analyze hotel customer data. It highlights key insights such as revenue trends, customer segmentation, and churn prediction. The platform reads an Excel file, processes the data, and provides a set of dynamic and interactive visual dashboards, making it easy for users to explore data insights and generate actionable business decisions.
 
@@ -62,8 +62,8 @@ The project is built to showcase expertise in:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/customer-churn-analysis.git
-cd customer-churn-analysis
+git clone https://github.com/Yeuner/machine-learning-hotel-Customer-Revenue-Churn-Analysis-Platform
+cd machine-learning-hotel-Customer-Revenue-Churn-Analysis-Platform
 ```
 
 ### 2. **Set Up Virtual Environment**
