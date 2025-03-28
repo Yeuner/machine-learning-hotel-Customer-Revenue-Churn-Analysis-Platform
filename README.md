@@ -3,6 +3,8 @@
 
 [![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://hotelappanalysis.streamlit.app)
 
+![Python Version](https://img.shields.io/badge/Python-3.11.9-blue?style=for-the-badge&logo=python)
+
 This project is a **Streamlit-based data analysis and visualization platform** designed to process and analyze hotel customer data. It highlights key insights such as revenue trends, customer segmentation, and churn prediction. The platform reads an Excel file, processes the data, and provides a set of dynamic and interactive visual dashboards, making it easy for users to explore data insights and generate actionable business decisions.
 
 ---
@@ -80,12 +82,12 @@ source venv/bin/activate
 
 ### 3. **Install Required Packages**
 ```bash
-pip install -r requirements.txt
+pip install --no-cache-dir --only-binary=:all: -r requirements.txt
 ```
 
 ### 4. **Run the Streamlit App**
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ### 5. **Open the Application**
