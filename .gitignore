@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Streamlit config and logs
+.streamlit/
+
+# Ignore environment files
+.env
