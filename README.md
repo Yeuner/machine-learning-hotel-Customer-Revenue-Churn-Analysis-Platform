@@ -1,7 +1,7 @@
 # 📊 Customer Revenue & Churn Analysis Platform
 
 
-[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://hotelappanalysis.streamlit.app)
+[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://machine-learning-hotel-customer-revenue-churn-analysis-platform.streamlit.app/)
 
 ![Python Version](https://img.shields.io/badge/Python-3.11.9-blue?style=for-the-badge&logo=python)
 
